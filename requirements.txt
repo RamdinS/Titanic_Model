@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+sqlalchemy
+pymysql
+json
+pickle
+flask
+ipykernel
